@@ -8,7 +8,7 @@ This Portfolio is a small project using HTML / CSS and JavaScript. I will be usi
 ## Technologies Used
 * HTML
 * CSS
-*JavaScript
+* JavaScript
 
 ## Installation
 No need to install any software, just open up index.html
